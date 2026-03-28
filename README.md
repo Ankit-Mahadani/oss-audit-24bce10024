@@ -1,9 +1,9 @@
-# oss-audit-24BAI10259
+# oss-audit-24BCE10024
 # The Open Source Audit — Git
 ### Open Source Software (OSS) Capstone Project
 **Course:** Open Source Software | VITyarthi
 **Student Name:** Daksh Maru
-**Roll Number:** 24BCE11514
+**Roll Number:** 24BCE10024
 **Chosen Software:** Git (Licensed under GPL v2)
 
 ---
@@ -107,8 +107,8 @@ sudo apt install git
 
 ### Step 1 — Clone this repository
 ```bash
-git clone https://github.com/aaryanmaurya10/oss-audit-24BAI10259.git
-cd oss-audit-24BAI10259
+git clone https://github.com/aaryanmaurya10/oss-audit-24BCE10024.git
+cd oss-audit-24BCE10024
 ```
 
 ### Step 2 — Make all scripts executable
