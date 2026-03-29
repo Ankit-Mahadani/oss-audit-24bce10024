@@ -2,7 +2,7 @@
 # The Open Source Audit — Git
 ### Open Source Software (OSS) Capstone Project
 **Course:** Open Source Software | VITyarthi
-**Student Name:** Daksh Maru
+**Student Name:** Ankit Mahadani
 **Roll Number:** 24BCE10024
 **Chosen Software:** Git (Licensed under GPL v2)
 
