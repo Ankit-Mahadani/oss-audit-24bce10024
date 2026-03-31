@@ -11,14 +11,14 @@
 
   Generating your manifesto...
 
-  [✔] Manifesto saved to: manifesto_daksh.txt
+  [✔] Manifesto saved to: manifesto_ankit.txt
 
 --- Your Manifesto ---
 
 ==================================================
        MY OPEN SOURCE MANIFESTO
        Generated on: 25 March 2026
-       By: daksh
+       By: ankit
 ==================================================
 
   I believe in the power of open source software.
@@ -41,5 +41,5 @@
   to be a giant for the next generation.
 
 ==================================================
-  Signed: daksh | 25 March 2026
+  Signed: ankit | 25 March 2026
 ==================================================
