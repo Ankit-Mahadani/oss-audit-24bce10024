@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 2: FOSS Package Inspector
-# Author: Daksh Maru | Roll: 24BCE11514
+# Author: Ankit Mahadani | Roll: 24BCE10024
 # Course: Open Source Software | Software Choice: Git
 # Description: Checks if a FOSS package is installed,
 #              shows its details, and prints a philosophy note
